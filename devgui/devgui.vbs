@@ -1,0 +1,1 @@
+ InputBox("devgui (requires devgui.php, devgui.vbs, devapi.php and optionally but not needed devgui.cpp, access is forbidden unless given access.) Please enter your 'catworks developer id'") 
