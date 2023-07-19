@@ -1,0 +1,1 @@
+msgbox("yeah no... oh and don't think about using a VPN because your HWID has been banned along with your IP, now i know what you're thinking 'i'll just buy another device'... well, i can't do much about that but please don't be a fucking lunatic if you so-choose.")

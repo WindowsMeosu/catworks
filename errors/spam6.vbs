@@ -1,0 +1,1 @@
+msgbox("hey, thanks for admitting that you either bought another device or changed your device's firmware to bypass a HWID ban, for that this ban will expire in exactly 12-months unless you decide to create another account or something. Well enjoy the rest of your day, i'm going to sleep. ")

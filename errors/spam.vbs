@@ -1,0 +1,1 @@
+msgbox("g'day mate, here's a little reminder that isn't fucking 4chan and spam is discouraged here")
