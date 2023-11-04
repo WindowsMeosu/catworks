@@ -1,1 +1,0 @@
-msgbox("If you're going to be annoying despite being told otherwise, get the fuck out and stay the fuck out. I don't want anything to do involving your existence here. You're allowed to visit the catworks website, however majority of time; API requests will fail from now on. Anyway, I'll repeat myself: Get off, stay off, and don't even bother with this site again or else.")

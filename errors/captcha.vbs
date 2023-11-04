@@ -1,1 +1,0 @@
- InputBox("captcha: type: 'cat,water,tree,slide'")

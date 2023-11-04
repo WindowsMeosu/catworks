@@ -1,1 +1,0 @@
- InputBox("captcha: type: 'water,cat,slide,tree \n Failure will result in being rate-limited.'")    

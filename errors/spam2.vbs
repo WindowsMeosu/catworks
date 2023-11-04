@@ -1,1 +1,0 @@
-msgbox("seriously? did you wake up and decided 'i'm bored, i'll just go on catworks and spam for the second fucking time' or are you just that stupid?")
